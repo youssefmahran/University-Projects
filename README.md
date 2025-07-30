@@ -14,7 +14,7 @@ This repository contains a collection of academic projects developed during unde
 - [Pneumatic-Metal-Separator](./Pneumatic-Metal-Separator/pneumatic.md)  
   A pneumatic-based machine designed to classify and separate metal parts using sensor feedback.
 
-- [Chain-Roller-Conveyor-Design copy](./Chain-Roller-Conveyor-Design/coneyor.md)  
+- [Chain-Roller-Conveyor-Design](./Chain-Roller-Conveyor-Design/coneyor.md)  
   Design and modeling of a mechanical roller conveyor system.
 
 - [Manual-Scissor-Lift-Design](./Manual-Scissor-Lift-Design/Scissor.md)  
