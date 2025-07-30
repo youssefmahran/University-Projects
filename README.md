@@ -1,9 +1,7 @@
 # University-Projects
-
 This repository contains a collection of academic projects developed during undergraduate studies. Each directory includes the full implementation, documentation, and design files relevant to the specific project.
 
 ## Projects
-
 - [Marvel Themed Computer Game](./Marvel-Themed-Game/Marvel.md)  
   A java-based Marvel computer game built and coded from scratch.
 
@@ -24,5 +22,4 @@ This repository contains a collection of academic projects developed during unde
 
 
 ## License
-
 This repository is for academic and educational use.
