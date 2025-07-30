@@ -2,6 +2,9 @@
 This repository contains a collection of academic projects developed during undergraduate studies. Each directory includes the full implementation, documentation, and design files relevant to the specific project.
 
 ## Projects
+- [4-DOF Robotic Arm](./Robotic-Arm-Fabrication/robotic.md)  
+  A 4-DOF Robotic Arm fabricated and manufactured from scratch.
+
 - [Marvel Themed Computer Game](./Marvel-Themed-Game/Marvel.md)  
   A java-based Marvel computer game built and coded from scratch.
 
